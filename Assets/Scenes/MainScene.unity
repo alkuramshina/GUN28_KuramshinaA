@@ -236,13 +236,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4183274579158331453, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -10.382298
+      objectReference: {fileID: 0}
+    - target: {fileID: 4183274579158331453, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.99298614
+      objectReference: {fileID: 0}
+    - target: {fileID: 4183274579158331453, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.11823081
+      objectReference: {fileID: 0}
+    - target: {fileID: 4183274579158331453, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.000000017085705
+      objectReference: {fileID: 0}
+    - target: {fileID: 4183274579158331453, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.0000000020343252
+      objectReference: {fileID: 0}
     - target: {fileID: 4478341443263058754, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
       propertyPath: m_Name
       value: Installer
-      objectReference: {fileID: 0}
-    - target: {fileID: 4478341443263058758, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4478341443263058758, guid: 4f497ba3fcaf2cb419c3489bf8b3ff1e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -726,6 +742,6 @@ SceneRoots:
   - {fileID: 1492216466}
   - {fileID: 1710888840309526070}
   - {fileID: 363343600554895284}
-  - {fileID: 6932157388529886783}
   - {fileID: 6425526321259914745}
   - {fileID: 57391565}
+  - {fileID: 6932157388529886783}
