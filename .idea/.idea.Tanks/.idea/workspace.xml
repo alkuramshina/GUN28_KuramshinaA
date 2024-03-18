@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a148c10-fcd1-460c-bc5f-4c4052f9b114" name="Changes" comment="" />
+    <list default="true" id="3a148c10-fcd1-460c-bc5f-4c4052f9b114" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +26,8 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Projects/Unity/Netology/Tanks/Assets/Scenes/MainScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Projects/Unity/Netology/Tanks/Assets/Prefabs/Tank.prefab" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Projects/Unity/Netology/Tanks/Assets/Scenes/TemplateScene.unity" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -97,6 +106,8 @@
       <updated>1707754333087</updated>
       <workItem from="1707754334795" duration="2949000" />
       <workItem from="1709561982346" duration="50000" />
+      <workItem from="1709751404017" duration="2296000" />
+      <workItem from="1710752005448" duration="1141000" />
     </task>
     <task id="LOCAL-00001" summary="+ .gitignore">
       <option name="closed" value="true" />
@@ -122,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709561998183</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="prefab settings, block towers">
+      <option name="closed" value="true" />
+      <created>1710263129088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710263129088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +155,7 @@
     <MESSAGE value="+ .gitignore" />
     <MESSAGE value="added start level and all the assets for it" />
     <MESSAGE value="camera updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="camera updated" />
+    <MESSAGE value="prefab settings, block towers" />
+    <option name="LAST_COMMIT_MESSAGE" value="prefab settings, block towers" />
   </component>
 </project>
