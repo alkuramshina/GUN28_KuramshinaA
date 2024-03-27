@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="3a148c10-fcd1-460c-bc5f-4c4052f9b114" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tanks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Carnage Indicator.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Carnage Indicator.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Speedometer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Speedometer.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Tank.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Tank.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Settings/Indicator.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/Indicator.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,7 @@
       <workItem from="1709751404017" duration="2296000" />
       <workItem from="1710752005448" duration="1909000" />
       <workItem from="1711042376217" duration="399000" />
+      <workItem from="1711381886088" duration="987000" />
     </task>
     <task id="LOCAL-00001" summary="+ .gitignore">
       <option name="closed" value="true" />
