@@ -15,19 +15,19 @@ MonoBehaviour:
   <Settings>k__BackingField:
   - Mult: 1
     Text: DO IT!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 1eb527077476cdf4695a6f27d3c2a21b, type: 2}
   - Mult: 2
     Text: WOW!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: a4ea17a8a07ec4b46bd847831c07701d, type: 2}
   - Mult: 3
     Text: GOD YES!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: d9477d97fcf3c2a4584603043cd59518, type: 2}
   - Mult: 4
     Text: IMPOSSIBLE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: aa618964331ec544da26fca2bc5949bd, type: 2}
   - Mult: 5
     Text: OH NO!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: 0662d956fc512bc49a87fb26b9b642d7, type: 2}
   - Mult: 6
     Text: CARNAGE!
-    Clip: {fileID: 0}
+    Clip: {fileID: 7400000, guid: c3c1c8dd931900d4bb4173e2d701b8e0, type: 2}
